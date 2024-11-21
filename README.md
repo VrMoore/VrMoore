@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VrMoore</h1>
-<h3 align="center">Someone Who Like Programminng</h3>
+<h3 align="center">Someone Who Like Programming</h3>
 <img src="github-header-image.png">
 
 - 🌱 I’m currently learning **Python**
