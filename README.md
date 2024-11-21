@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm VrMoore</h1>
 <h3 align="center">Someone Who Like Programminng</h3>
-(./github-header-image.png)
+![Header](./your-header-image-name.png)
 
 - 🌱 I’m currently learning **Python**
 
