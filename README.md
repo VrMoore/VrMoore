@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm VrMoore</h1>
 <h3 align="center">Someone Who Like Programming</h3>
-<img src="VR.MOORE(1).png">
+<img src="github-banner.png">
 
 - 🌱 I’m currently learning **Python**
 
